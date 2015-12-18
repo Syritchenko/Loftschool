@@ -1,7 +1,11 @@
 body {
-    background: greenyellow;
+    background: skyblue;
     font-size: 30px;
     width: 970px;
     margin: auto;
+}
+
+h1 {
+    color: pink;
 }
 
