@@ -5,3 +5,7 @@ body {
     margin: auto;
 }
 
+body div {
+    background: orange;
+}
+
